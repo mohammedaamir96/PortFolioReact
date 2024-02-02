@@ -1,0 +1,13 @@
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.header-image {
+    border-radius: 50%;
+    width: 120px;
+    height: 150px; 
+    object-fit: cover;
+}
